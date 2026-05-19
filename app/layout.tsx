@@ -45,7 +45,7 @@ export const metadata: Metadata = {
     title: "Maklon Sandal Sidoarjo | Luqman Bintang Jaya",
     description:
       "Spesialis maklon sandal custom di Sidoarjo sejak 1987. Harga pabrik, custom desain bebas, fast turnaround. Melayani seluruh Indonesia.",
-    images: [{ url: "/logo.png", width: 1200, height: 630, alt: "LBJ Footwear Industries" }],
+    images: [{ url: "https://res.cloudinary.com/duqhnn1gc/image/upload/q_auto/f_auto/v1779166904/Desain_tanpa_judul_tnfxqp.png", width: 1200, height: 630, alt: "LBJ Footwear Industries" }],
   },
 };
 

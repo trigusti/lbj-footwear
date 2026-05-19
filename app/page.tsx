@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     description:
       "Spesialis maklon sandal custom di Sidoarjo sejak 1987. Harga langsung dari pabrik, melayani seluruh Indonesia.",
     url: "https://luqmanbintangjaya.com/",
-    images: [{ url: "/logo.png", alt: "Luqman Bintang Jaya" }],
+    images: [{ url: "https://res.cloudinary.com/duqhnn1gc/image/upload/q_auto/f_auto/v1779166904/Desain_tanpa_judul_tnfxqp.png", alt: "Luqman Bintang Jaya" }],
   },
   alternates: { canonical: "https://luqmanbintangjaya.com/" },
 };

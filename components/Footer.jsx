@@ -9,7 +9,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">
           <div className="lg:col-span-2">
             <Image
-              src="/logo.png"
+              src="https://res.cloudinary.com/duqhnn1gc/image/upload/q_auto/f_auto/v1779166904/Desain_tanpa_judul_tnfxqp.png"
               alt="LBJ Footwear Industries"
               width={130}
               height={44}

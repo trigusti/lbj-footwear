@@ -36,7 +36,7 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-16 lg:h-20">
           <Link href="/" className="flex items-center gap-2 flex-shrink-0">
             <Image
-              src="/logo.png"
+              src="https://res.cloudinary.com/duqhnn1gc/image/upload/q_auto/f_auto/v1779166904/Desain_tanpa_judul_tnfxqp.png"
               alt="LBJ Footwear Industries - Luqman Bintang Jaya"
               width={120}
               height={40}
